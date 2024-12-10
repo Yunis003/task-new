@@ -1,0 +1,13 @@
+.navigation{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  >a{
+    text-decoration: none;
+    color: red;
+    &:hover{
+      color:darkred
+    }
+  }
+}
