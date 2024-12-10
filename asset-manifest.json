@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/task-new/static/css/main.acb71074.css",
+    "main.js": "/task-new/static/js/main.300bedd3.js",
+    "index.html": "/task-new/index.html",
+    "main.acb71074.css.map": "/task-new/static/css/main.acb71074.css.map",
+    "main.300bedd3.js.map": "/task-new/static/js/main.300bedd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb71074.css",
+    "static/js/main.300bedd3.js"
+  ]
+}
